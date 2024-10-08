@@ -18,3 +18,6 @@ Ce carnet contient des notes sur l'Intelligence Artificielle et son application 
 
 git commit --amend
 Création du carnet de notes en Markdown
+### Nouveaux Concepts
+
+- **Deep Learning** : Utilisation de réseaux de neurones artificiels à plusieurs couches.
